@@ -237,7 +237,3 @@ class Puzzle:
         for line in printed_grid:
             print(line)
 
-# Example usage:
-# Assuming `self.puzzle` is your grid (2D list) and `puzzle_self.variables` is your list of self.variables:
-# print_puzzle_with_words(puzzle, puzzle_self.variables)
-
